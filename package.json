@@ -1,0 +1,28 @@
+{
+  "name": "tony-utils",
+  "version": "1.0.0",
+  "description": "a utility library",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tony-luisi/tony-utils.git"
+  },
+  "keywords": [],
+  "author": "tony_sam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tony-luisi/tony-utils/issues"
+  },
+  "homepage": "https://github.com/tony-luisi/tony-utils",
+  "devDependencies": {
+    "colors": "^1.1.2",
+    "js-object-pretty-print": "^0.2.0",
+    "node-emoji": "^1.1.1"
+  }
+}
