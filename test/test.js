@@ -37,7 +37,7 @@ function add (a, b) {
 }
 
 function addStrings (a, b) {
-  return (Number(a) + Number(b)).toString();
+  return add((toNumber(a), toNumber(b)).toString();
 }
 
 function addStringsOrNumbers (a, b) {
